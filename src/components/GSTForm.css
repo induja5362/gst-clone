@@ -1,0 +1,18 @@
+/* src/components/GSTForm.css */
+.container {
+  max-width: 900px;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+  text-align: center;
+}
+
+thead th {
+  background-color: #f8f9fa;
+  font-weight: bold;
+}
+
+button {
+  width: 120px;
+}

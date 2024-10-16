@@ -1,0 +1,46 @@
+body {
+    background-color: #f8f9fa; /* Light grey background */
+  }
+  
+  .container {
+    max-width: 1200px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .section-header {
+    color: #17a2b8;
+  }
+  
+  .table {
+    margin-top: 20px;
+  }
+  
+  thead {
+    background-color: #343a40;
+    color: white;
+  }
+  
+  th, td {
+    vertical-align: middle;
+    font-weight: 500;
+  }
+  
+  input.form-control {
+    height: 38px;
+    text-align: right;
+  }
+  
+  .alert-info {
+    background-color: #e3f7fc;
+    color: #31708f;
+    margin-bottom: 20px;
+    border-left: 5px solid #17a2b8;
+  }
+  
+  button {
+    width: 100px;
+  }
+  
